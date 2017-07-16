@@ -1,5 +1,3 @@
-[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
-
 $Host.UI.RawUI.ForegroundColor = "Black"
 $Host.UI.RawUI.BackgroundColor = "White"
 
