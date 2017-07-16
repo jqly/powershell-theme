@@ -2,7 +2,7 @@
 
 ## Installation
 
-Put this file into `C:\Users\jqly\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`.
+Put this file into `your-user-name\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`.
 
 ## Screenshots
 
