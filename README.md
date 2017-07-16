@@ -11,3 +11,6 @@ Put this file into `your-user-name\Documents\WindowsPowerShell\Microsoft.PowerSh
 ![pspushdpopd](./powershellthemefigure/pspushdpopd.PNG)
 
 *I hope you enjoy it!*
+
+## Miscellaneous
+Have a look on my [project](https://github.com/jqly/lsc) about colorized scheme for `ls` command of PowerShell;)
